@@ -66,8 +66,8 @@ private  long id;
     return displayName;
   }
 
-  public void setDisplyName(@NonNull String displyName) {
-    this.displayName = displyName;
+  public void setDisplyName(@NonNull String displayName) {
+    this.displayName = displayName;
   }
 
   public String getPhoneNumber() {
